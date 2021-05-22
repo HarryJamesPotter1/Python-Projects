@@ -2,7 +2,7 @@ import turtle
 
 Turtle = turtle
 
-Turtle.color("Brown")
+Turtle.color("Cyan")
 Turtle.left(90)
 Turtle.speed(0)
 def Tree(length, width):
@@ -20,7 +20,7 @@ def Tree(length, width):
         Turtle.backward(0.75*length)
         Turtle.left(30)
         Turtle.backward(length)
-        Turtle.color("Brown")
+        Turtle.color("Cyan")
     else:
         # Recursive Case# your own code
         Turtle.forward(length)
