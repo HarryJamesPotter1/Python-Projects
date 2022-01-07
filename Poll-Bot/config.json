@@ -1,0 +1,8 @@
+{
+	"discord_token" : "OTI4NDE1NzU1MzU4MzA2MzI1.YdYcjQ.jxap8VlIdhpqe916ENCSeZeEYug",
+    "shards": {
+        "count": 1,
+        "first_shard_id": 0,
+        "last_shard_id": 0
+    }
+}
