@@ -8,7 +8,7 @@ class Meta(commands.Cog):
 
         self.help_message = discord.Embed(
             description="**Reaction Poll**\nCreate a reaction poll by typing `+poll *your message*`. Poll Bot will automatically add the reactions 👍, 👎, and 🤷.\nCreate a reaction poll with multiple options by typing `+poll {title} [Option1] [Option2] [Option3]`.\n"
-            + "\n**Other Commands**\n+invite\n\n**Still Have Questions?**\nAsk Kushal"
+            + "\n**Other Commands**\n+invite\n\n**Still Have Questions?**\nAsk the developer"
             + "\n",
             colour=0x83BAE3,
         )
