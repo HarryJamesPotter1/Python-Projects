@@ -11,7 +11,7 @@ memStore = "Empty"
 # Define Function Listing Function
 def abilitiesList():
     print("+...Addition")
-    print("-...Subtraction")
+    print("-...Subtraction")
     print("*...Multiplication")
     print("/...Division")
     print("^...Powers")
